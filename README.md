@@ -16,5 +16,5 @@
   - A Minecraft mod which dynamically retrieves in-game attributes via MQTT
 - Blink
   - A simple Minecraft mod which emulates an eye blink
-- ICT1011 (in progress)
-  - A group effort to develop a key lock system concept using BLE and TinyCircuit, inspired by the HITMAN game's Hokkaido level
+- BLELS (in progress)
+  - A key lock system concept using BLE, inspired by HIMAN's Hokkaido map
