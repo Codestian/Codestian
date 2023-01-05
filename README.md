@@ -4,7 +4,6 @@
 - 👋 Hi, I’m @Codestian
 - 👀 I’m interested in anything IT related, such as webdev, IOT, machine learning
 - 🌱 I’m currently learning software engineering in SIT
-- 💞️ I’m looking to collaborate on Home Assistant related projects
 - 🚀 I like Minecraft and Star Wars
 
 ## My Projects
@@ -16,5 +15,3 @@
   - A Minecraft mod which dynamically retrieves in-game attributes via MQTT
 - Blink
   - A simple Minecraft mod which emulates an eye blink
-- BLELS (in progress)
-  - A key lock system concept using BLE, inspired by HIMAN's Hokkaido map
