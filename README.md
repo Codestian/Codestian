@@ -33,27 +33,21 @@ I am a product engineer who thrives on the process of turning raw ideas into fun
       <h3>🌍 TerraSketch</h3>
       <p><b>Svelte • SASS • GeoJSON</b></p>
       <p>A GeoJSON editor to automate building outlines for the Minecraft <b>BuildTheEarth</b> project.</p>
-      <a href="https://github.com/Codestian/TerraSketch">View Repository →</a>
+      <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" alt="Live">
+      <a href="https://app.terrasketch.codestian.com"><img src="https://img.shields.io/badge/Check_it_out-0A66C2?style=flat-square" alt="Check it out"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <h3>🏠 ha-lta</h3>
-      <p><b>Python</b></p>
-      <p>Home Assistant Custom Component to check SG bus timings directly from your smart home dashboard.</p>
-      <a href="https://github.com/Codestian/ha-lta">View Repository →</a>
+      <h3>🏛️ TownCouncil SG</h3>
+      <p><b>JavaScript • OpenLayers • GeoJSON</b></p>
+      <p>A map to look up which Singapore town council division covers an address, plus the constituency and MP.</p>
+      <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" alt="Live">
+      <a href="https://towncouncilsg.codestian.com"><img src="https://img.shields.io/badge/Check_it_out-0A66C2?style=flat-square" alt="Check it out"></a>
       <br><br>
     </td>
   </tr>
 </table>
-
----
-
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codestian&show_icons=true&theme=radical" alt="Codestian's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codestian&layout=compact&theme=radical&hide=php,java" alt="Top Langs" height="150" />
-</p>
 
 ---
 
