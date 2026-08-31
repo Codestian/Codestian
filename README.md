@@ -21,7 +21,7 @@ I am a product engineer who thrives on the process of turning raw ideas into fun
     <td width="50%" valign="top">
       <br>
       <h3>⚙️ OpsTool App</h3>
-      <p><b>Android (Native/Framework)</b></p>
+      <p><b>React Native</b></p>
       <p>An internal operations tool for <b>Target Media</b> designed to assist the ops department in diagnosing and resolving panel issues.</p>
       <img src="https://img.shields.io/badge/Status-Proprietary-orange?style=flat-square" alt="Proprietary">
       <br><br>
